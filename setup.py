@@ -1,0 +1,4 @@
+from setuptools import setup
+
+setup(name='my_env',
+      version='0.0.1')
